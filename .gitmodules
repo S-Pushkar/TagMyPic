@@ -1,0 +1,12 @@
+[submodule "image_db_query"]
+	path = image_db_query
+	url = https://github.com/S-Pushkar/image_db_query.git
+[submodule "image_db_ocr"]
+	path = image_db_ocr
+	url = https://github.com/S-Pushkar/image_db_ocr.git
+[submodule "image_db_backend"]
+	path = image_db_backend
+	url = https://github.com/S-Pushkar/image_db_backend.git
+[submodule "image-db"]
+	path = image-db
+	url = https://github.com/S-Pushkar/image-db.git
