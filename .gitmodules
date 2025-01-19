@@ -10,3 +10,6 @@
 [submodule "image-db"]
 	path = image-db
 	url = https://github.com/S-Pushkar/image-db.git
+[submodule "image_db_delete"]
+	path = image_db_delete
+	url = https://github.com/S-Pushkar/image_db_delete
